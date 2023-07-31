@@ -1,0 +1,297 @@
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\.env.example
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\.gitattributes
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app.json
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\artisan
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\composer.json
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\composer.lock
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\gulpfile.js
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\package.json
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\phpspec.yml
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\phpunit.xml
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\Procfile
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\readme.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\server.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\User.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Console\Kernel.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Console\Commands\Inspire.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Events\Event.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Exceptions\Handler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Kernel.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\routes.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Controllers\Controller.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Controllers\Auth\AuthController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Controllers\Auth\PasswordController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Middleware\Authenticate.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Middleware\EncryptCookies.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Middleware\RedirectIfAuthenticated.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Middleware\VerifyCsrfToken.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Http\Requests\Request.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Jobs\Job.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Listeners\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Policies\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Providers\AppServiceProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Providers\AuthServiceProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Providers\EventServiceProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\app\Providers\RouteServiceProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\bootstrap\app.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\bootstrap\autoload.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\bootstrap\cache\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\app.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\auth.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\broadcasting.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\cache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\compile.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\database.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\debugbar.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\filesystems.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\laraerp.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\mail.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\queue.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\services.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\session.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\config\view.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\.travis.yml
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\composer.json
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\phpunit.xml
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\readme.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\config\laraerp.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_190732_create_pessoas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_192313_create_empresas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_192539_create_clientes_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_192745_create_fornecedors_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_202112_create_cidades_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_20_202502_create_enderecos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_21_011210_create_contatos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_123444_create_ncms_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_123808_create_cfops_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_124354_create_unidade_medidas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_130356_create_unidade_medida_fators_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_132855_create_unidade_medida_fator_sinonimos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_26_133525_create_produtos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_27_133005_create_nota_fiscals_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_27_133305_create_nota_fiscal_items_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\migrations\2015_08_28_174237_create_faturas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\CfopsSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\CidadesSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\LaraerpSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\NcmsSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\UnidadeMedidasSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\database\seeds\UsuarioSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\RepositoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\CidadeRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\ClienteRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\ContatoRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\EmpresaRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\EnderecoRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\FaturaRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\FornecedorRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\NotaFiscalItemRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\NotaFiscalRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\PessoaRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\ProdutoRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\UnidadeMedidaFatorRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\UnidadeMedidaFatorSinonimoRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Contracts\Repositories\UnidadeMedidaRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\BasePessoaRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\BaseRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Cfop.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Cidade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Cliente.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Contato.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Empresa.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Endereco.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Fatura.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Fornecedor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Ncm.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\NotaFiscal.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\NotaFiscalItem.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Pessoa.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\Produto.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\UnidadeMedida.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\UnidadeMedidaFator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Models\UnidadeMedidaFatorSinonimo.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\CidadeEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\ClienteEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\ContatoEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\EmpresaEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\EnderecoEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\FaturaEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\FornecedorEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\NotaFiscalEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\NotaFiscalItemEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\PessoaEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\ProdutoEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\UnidadeMedidaEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\UnidadeMedidaFatorEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Eloquent\Repositories\UnidadeMedidaFatorSinonimoEloquentRepository.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Exceptions\Handler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Exceptions\WhoopsHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\routes.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\ClienteController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\CompraController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\ContatoController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\Controller.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\DashboardController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\EnderecoController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\FinanceiroController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\FornecedorController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\NotaFiscalController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\ProdutoController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\SetupController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\UtilController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Controllers\VendaController.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Middleware\SetupMiddleware.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\CompraRelacionarProdutoItemRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\CompraSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\ContatoSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\EnderecoSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\NotaFiscalUploadRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\PessoaSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\ProdutoSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\Request.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Requests\SetupSalvarRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Http\Services\ImportarNFeService.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\src\Providers\LaraerpServiceProvider.php
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\core\tests\LaraerpServiceProviderTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\factories\ModelFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2014_10_12_000000_create_users_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2014_10_12_100000_create_password_resets_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_190732_create_pessoas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_192313_create_empresas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_192539_create_clientes_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_192745_create_fornecedors_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_202112_create_cidades_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_20_202502_create_enderecos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_21_011210_create_contatos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_123444_create_ncms_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_123808_create_cfops_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_124354_create_unidade_medidas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_130356_create_unidade_medida_fators_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_132855_create_unidade_medida_fator_sinonimos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_26_133525_create_produtos_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_27_133005_create_nota_fiscals_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_27_133305_create_nota_fiscal_items_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\migrations\2015_08_28_174237_create_faturas_table.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\CfopsSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\CidadesSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\DatabaseSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\LaraerpSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\NcmsSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\UnidadeMedidasSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\database\seeds\UsuarioSeeder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\.htaccess
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\favicon.ico
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\index.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\robots.txt
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\css\app.css
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\js\ajax-bootstrap-select.min.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\js\app.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\js\cidades.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\js\correios.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\public\vendor\laraerp\template\js\documento.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\assets\sass\app.scss
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\lang\en\auth.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\lang\en\pagination.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\lang\en\passwords.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\lang\en\validation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\views\welcome.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\views\errors\503.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\resources\views\vendor\.gitkeep
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\app\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\debugbar\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\framework\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\framework\cache\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\framework\sessions\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\framework\views\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\storage\logs\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\.gitignore
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\composer.json
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\README.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\css\app.css
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\js\ajax-bootstrap-select.min.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\js\app.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\js\cidades.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\js\correios.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\public\js\documento.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\assets\sass\app.scss
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\lang\en\pagination.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\lang\en\passwords.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\lang\en\validation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\app.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\auth\login.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\cliente\form.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\cliente\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\cliente\ver.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\compra\header.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\compra\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\compra\itens.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\compra\ver.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\configuracoes\meusDados.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\contato\fields.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\contato\listagem.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\dashboard\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\endereco\fields.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\endereco\listagem.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\errors\503.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\financeiro\contasPagar.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\financeiro\contasReceber.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\financeiro\extrato.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\fornecedor\form.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\fornecedor\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\fornecedor\ver.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\notafiscal\importar.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\notafiscal\resultado.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\pessoa\fields.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\produto\form.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\produto\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\produto\ver.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\setup\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\venda\index.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\resources\views\venda\itens.blade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\template\src\Providers\TemplateServiceProvider.php
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\tests\ExampleTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\laraerp-develop\laraerp-develop\tests\TestCase.php
+S3:*
+s3:DeleteBucket
+s3:DeleteObjectVersion
+s3:DeleteAccessPoint
+s3:DeleteBucketWebsite
+s3:DeleteObject
+SNS:GetEndpointAttributes
+SNS:CheckIfPhoneNumberIsOptedOut
+SNS:DeletePlatformApplication
+EC2:RunScheduledInstances
+EC2:DeleteSubnet
+EC2:DeleteSecurityGroup
+EC2:DeleteResourcePolicy
+EC2:DeleteSnapshot
+EC2:DeleteVolume
+Política: S3FullPolítica: ttt

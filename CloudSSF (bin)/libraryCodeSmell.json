@@ -1,0 +1,338 @@
+[
+  {
+    "Language": "PHP",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Method": "sendEmail",
+    "Desc": "Send Email"
+  },
+  {
+    "Language": "C#",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Method": "SendEmail",
+    "Desc": "Send Email"
+  },
+  {
+    "Language": "JS",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Method": "senderEmail",
+    "Desc": "Send Email"
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Method": "SendEmailRequest",
+    "Desc": "Send Email"
+  },
+  {
+    "Language": "PHP",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "getObject",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "GetObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "getObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "GetObject",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "createBucket",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "CreateBucket",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "createBuckets",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "CreateBucket",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "putObject",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "PutObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "putObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "PutObject",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "deleteObject",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "DeleteObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "deleteObject",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Method": "DeleteObject",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "createTopic",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "CreateTopic",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "createTopic",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "CreateTopic",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "Publish",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "publish",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "Publish",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "publish",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "Subscribe",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "subscribe",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "Subscribe",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Method": "subscribe",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Method": "runInstance",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Method": "RunInstance",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Method": "runInstance",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Method": "RunInstanceRequest",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "sendMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "SendMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "sendMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "SendMessageRequest",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "createQueue",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "CreateQueue",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "createQueue",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "CreateQueueRequest",
+    "Desc": ""
+  },
+  {
+    "Language": "PHP",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "deleteMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "C#",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "DeleteMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "JS",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "deleteMessage",
+    "Desc": ""
+  },
+  {
+    "Language": "JAVA",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Method": "DeleteMessage",
+    "Desc": ""
+  }
+]

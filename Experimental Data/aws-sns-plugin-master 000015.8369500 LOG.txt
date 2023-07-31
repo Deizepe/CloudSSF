@@ -1,0 +1,701 @@
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\aws-sns-plugin.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\index.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\LICENSE.txt
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\README.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\README.txt
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\uninstall.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\class-aws-sns-plugin-admin.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\index.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\css\aws-sns-plugin-admin.css
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\js\aws-sns-plugin-admin.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\partials\aws-sns-plugin-admin-backend-display.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\admin\partials\aws-sns-plugin-admin-settings-display.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\class-aws-sns-plugin-activator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\class-aws-sns-plugin-deactivator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\class-aws-sns-plugin-i18n.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\class-aws-sns-plugin-loader.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\class-aws-sns-plugin.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\includes\index.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\languages\aws-sns-plugin.pot
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\public\class-aws-sns-plugin-public.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\public\index.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\public\css\aws-sns-plugin-public.css
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\public\js\aws-sns-plugin-public.js
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\public\partials\aws-sns-plugin-public-display.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\aws-autoloader.php
+String 'DeleteObject' found in file.
+String 'DeleteObject' found in file.
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\CHANGELOG.md
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'DeleteObject' found in file.
+String 'DeleteObject' found in file.
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\LICENSE.md
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\NOTICE.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\README.md
+String 'putObject' found in file.
+String 'putObject' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Aws.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\HostNameUtils.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\RulesEndpointProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\AbstractClient.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\AwsClientInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\ClientBuilder.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\DefaultClient.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\ExpiredCredentialsChecker.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\ThrottlingErrorChecker.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\UploadBodyListener.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Client\UserAgentListener.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Command\AwsQueryVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Command\JsonCommand.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Command\QueryCommand.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Command\XmlResponseLocationVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\AbstractCredentialsDecorator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\AbstractRefreshableCredentials.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\CacheableCredentials.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\Credentials.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\CredentialsInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\NullCredentials.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Credentials\RefreshableInstanceProfileCredentials.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\ClientOptions.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\DateFormat.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\Region.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\Size.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\Time.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Enum\UaString.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\AwsExceptionInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\BadMethodCallException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\DomainException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\ExceptionFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\ExceptionListener.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\InstanceProfileCredentialsException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\InvalidArgumentException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\LogicException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\MultipartUploadException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\NamespaceExceptionFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\OutOfBoundsException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\OverflowException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\RequiredExtensionNotLoadedException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\RuntimeException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\ServiceResponseException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\TransferException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\UnexpectedValueException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\Parser\AbstractJsonExceptionParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\Parser\DefaultXmlExceptionParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\Parser\ExceptionParserInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\Parser\JsonQueryExceptionParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Exception\Parser\JsonRestExceptionParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Facade\facade-classes.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Facade\Facade.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Facade\FacadeInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Hash\ChunkHash.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Hash\ChunkHashInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Hash\HashUtils.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Hash\TreeHash.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\InstanceMetadata\InstanceMetadataClient.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\InstanceMetadata\Waiter\ServiceAvailable.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Iterator\AwsResourceIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Iterator\AwsResourceIteratorFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\AbstractTransfer.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\AbstractTransferState.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\AbstractUploadBuilder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\AbstractUploadId.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\AbstractUploadPart.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\TransferInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\TransferStateInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\UploadIdInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Model\MultipartUpload\UploadPartInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Resources\aws-config.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Resources\public-endpoints.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Resources\sdk1-config.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\AbstractSignature.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\EndpointSignatureInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\SignatureInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\SignatureListener.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\SignatureV2.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\SignatureV3Https.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Signature\SignatureV4.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\AbstractResourceWaiter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\AbstractWaiter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\CallableWaiter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\CompositeWaiterFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\ConfigResourceWaiter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\ResourceWaiterInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\WaiterClassFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\WaiterConfig.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\WaiterConfigFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\WaiterFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Common\Waiter\WaiterInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\SnsClient.php
+String 'createTopic' found in file.
+String 'CreateTopic' found in file.
+String 'createTopic' found in file.
+String 'CreateTopic' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\AuthorizationErrorException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\EndpointDisabledException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\InternalErrorException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\InvalidParameterException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\NotFoundException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\PlatformApplicationDisabledException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\SnsException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\SubscriptionLimitExceededException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Exception\TopicLimitExceededException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\Message.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'SendMessage' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\MessageValidator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\Exception\CannotGetPublicKeyFromCertificateException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\Exception\CertificateFromUnrecognizedSourceException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\Exception\InvalidMessageSignatureException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\MessageValidator\Exception\SnsMessageValidatorException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Aws\Sns\Resources\sns-2010-03-31.php
+String 'CreateTopic' found in file.
+String 'CreateTopic' found in file.
+String 'Publish' found in file.
+String 'Publish' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ApcCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ApcuCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ArrayCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\Cache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\CacheProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ChainCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ClearableCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\CouchbaseCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\FileCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\FilesystemCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\FlushableCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\MemcacheCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\MemcachedCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\MongoDBCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\MultiGetCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\MultiPutCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\PhpFileCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\PredisCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\RedisCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\RiakCache.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\SQLite3Cache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\Version.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\VoidCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\WinCacheCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\XcacheCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Doctrine\Common\Cache\ZendDataCache.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\AbstractBatchDecorator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\Batch.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchBuilder.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchClosureDivisor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchClosureTransfer.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchCommandTransfer.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchDivisorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchRequestTransfer.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchSizeDivisor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\BatchTransferInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\ExceptionBufferingBatch.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\FlushingBatch.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\HistoryBatch.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\NotifyingBatch.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Batch\Exception\BatchTransferException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\AbstractCacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\CacheAdapterFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\CacheAdapterInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\ClosureCacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\DoctrineCacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\NullCacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\Zf1CacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Cache\Zf2CacheAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\AbstractHasDispatcher.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Collection.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Event.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\FromConfigInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\HasDispatcherInterface.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\ToArrayInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Version.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\BadMethodCallException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\ExceptionCollection.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\GuzzleException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\InvalidArgumentException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\RuntimeException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Common\Exception\UnexpectedValueException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\AbstractEntityBodyDecorator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\CachingEntityBody.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Client.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\ClientInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\EntityBody.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\EntityBodyInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\IoEmittingEntityBody.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Mimetypes.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\QueryString.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\ReadLimitEntityBody.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\RedirectPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\StaticClient.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Url.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\CurlHandle.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\CurlMulti.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\CurlMultiInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\CurlMultiProxy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\CurlVersion.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Curl\RequestMediator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\BadResponseException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\ClientErrorResponseException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\CouldNotRewindStreamException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\CurlException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\HttpException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\MultiTransferException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\RequestException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\ServerErrorResponseException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Exception\TooManyRedirectsException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\AbstractMessage.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\EntityEnclosingRequest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\EntityEnclosingRequestInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\MessageInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\PostFile.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\PostFileInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Request.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\RequestFactory.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\RequestFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\RequestInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Response.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\CacheControl.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\HeaderCollection.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\HeaderFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\HeaderFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\HeaderInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Message\Header\Link.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\QueryAggregator\CommaAggregator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\QueryAggregator\DuplicateAggregator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\QueryAggregator\PhpAggregator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\QueryAggregator\QueryAggregatorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Http\Resources\cacert.pem
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Inflection\Inflector.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Inflection\InflectorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Inflection\MemoizingInflector.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Inflection\PreComputedInflector.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Iterator\AppendIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Iterator\ChunkedIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Iterator\FilterIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Iterator\MapIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Iterator\MethodProxyIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\AbstractLogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\ArrayLogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\ClosureLogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\LogAdapterInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\MessageFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\MonologLogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\PsrLogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\Zf1LogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Log\Zf2LogAdapter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\ParserRegistry.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Cookie\CookieParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Cookie\CookieParserInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Message\AbstractMessageParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Message\MessageParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Message\MessageParserInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Message\PeclHttpMessageParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\UriTemplate\PeclUriTemplate.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\UriTemplate\UriTemplate.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\UriTemplate\UriTemplateInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Url\UrlParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Parser\Url\UrlParserInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Async\AsyncPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\AbstractBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\AbstractErrorCodeBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\BackoffLogger.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\BackoffPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\BackoffStrategyInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\CallbackBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\ConstantBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\CurlBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\ExponentialBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\HttpBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\LinearBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\ReasonPhraseBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Backoff\TruncatedBackoffStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\CacheKeyProviderInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\CachePlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\CacheStorageInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\CallbackCanCacheStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\CanCacheStrategyInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\DefaultCacheKeyProvider.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\DefaultCacheStorage.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\DefaultCanCacheStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\DefaultRevalidation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\DenyRevalidation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\RevalidationInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cache\SkipRevalidation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\Cookie.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\CookiePlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\CookieJar\ArrayCookieJar.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\CookieJar\CookieJarInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\CookieJar\FileCookieJar.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Cookie\Exception\InvalidCookieException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\CurlAuth\CurlAuthPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\ErrorResponse\ErrorResponseExceptionInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\ErrorResponse\ErrorResponsePlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\ErrorResponse\Exception\ErrorResponseException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\History\HistoryPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Log\LogPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Md5\CommandContentMd5Plugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Md5\Md5ValidatorPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Mock\MockPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Plugin\Oauth\OauthPlugin.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\AbstractConfigLoader.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\CachingConfigLoader.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Client.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\ClientInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\ConfigLoaderInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Builder\ServiceBuilder.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Builder\ServiceBuilderInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Builder\ServiceBuilderLoader.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\AbstractCommand.php
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\ClosureCommand.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\CommandInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\CreateResponseClassEvent.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\DefaultRequestSerializer.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\DefaultResponseParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\OperationCommand.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\OperationResponseParser.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\RequestSerializerInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\ResponseClassInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\ResponseParserInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\AliasFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\CompositeFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\ConcreteClassFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\FactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\MapFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\Factory\ServiceDescriptionFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\VisitorFlyweight.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\AbstractRequestVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\BodyVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\HeaderVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\JsonVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\PostFieldVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\PostFileVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\QueryVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\RequestVisitorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\ResponseBodyVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Request\XmlVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\AbstractResponseVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\BodyVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\HeaderVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\JsonVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\ReasonPhraseVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\ResponseVisitorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\StatusCodeVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Command\LocationVisitor\Response\XmlVisitor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\Operation.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\OperationInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\Parameter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\SchemaFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\SchemaValidator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\ServiceDescription.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\ServiceDescriptionInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\ServiceDescriptionLoader.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Description\ValidatorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\CommandException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\CommandTransferException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\DescriptionBuilderException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\InconsistentClientTransferException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\ResponseClassException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\ServiceBuilderException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\ServiceNotFoundException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Exception\ValidationException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\AbstractResourceIteratorFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\CompositeResourceIteratorFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\MapResourceIteratorFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\Model.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\ResourceIterator.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\ResourceIteratorApplyBatched.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\ResourceIteratorClassFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\ResourceIteratorFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Service\Resource\ResourceIteratorInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Stream\PhpStreamRequestFactory.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Stream\Stream.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Stream\StreamInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Guzzle\Stream\StreamRequestFactoryInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\ErrorHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Logger.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Registry.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\ChromePHPFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\ElasticaFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\FlowdockFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\FormatterInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\GelfMessageFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\HtmlFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\JsonFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\LineFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\LogglyFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\LogstashFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\MongoDBFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\NormalizerFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\ScalarFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Formatter\WildfireFormatter.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\AbstractHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\AbstractProcessingHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\AbstractSyslogHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\AmqpHandler.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\BrowserConsoleHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\BufferHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\ChromePHPHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\CouchDBHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\CubeHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\DoctrineCouchDBHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\DynamoDbHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\ElasticSearchHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\ErrorLogHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FilterHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FingersCrossedHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FirePHPHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FleepHookHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FlowdockHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\GelfHandler.php
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\GroupHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\HandlerInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\HipChatHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\IFTTTHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\LogEntriesHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\LogglyHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\MailHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\MandrillHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\MissingExtensionException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\MongoDBHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\NativeMailerHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\NewRelicHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\NullHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\PHPConsoleHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\PsrHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\PushoverHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\RavenHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\RedisHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\RollbarHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\RotatingFileHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SamplingHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SlackHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SocketHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\StreamHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SwiftMailerHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SyslogHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SyslogUdpHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\TestHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\WhatFailureGroupHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\ZendMonitorHandler.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\Curl\Util.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FingersCrossed\ActivationStrategyInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FingersCrossed\ChannelLevelActivationStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\FingersCrossed\ErrorLevelActivationStrategy.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Handler\SyslogUdp\UdpSocket.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\GitProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\IntrospectionProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\MemoryPeakUsageProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\MemoryProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\MemoryUsageProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\ProcessIdProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\PsrLogMessageProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\TagProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\UidProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Monolog\Processor\WebProcessor.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\AbstractLogger.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\InvalidArgumentException.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\LoggerAwareInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\LoggerAwareTrait.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\LoggerInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\LoggerTrait.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\LogLevel.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\NullLogger.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Psr\Log\Test\LoggerInterfaceTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\ContainerAwareEventDispatcher.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Event.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\EventDispatcher.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\EventDispatcherInterface.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\EventSubscriberInterface.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\GenericEvent.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\ImmutableEventDispatcher.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcherInterface.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Debug\WrappedListener.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\DependencyInjection\RegisterListenersPass.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\AbstractEventDispatcherTest.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\ContainerAwareEventDispatcherTest.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\EventDispatcherTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\EventTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\GenericEventTest.php
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\ImmutableEventDispatcherTest.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\Debug\TraceableEventDispatcherTest.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\source\repos\Deizepe\Mestrado\Pacote de Teste\aws-sns-plugin-master\sdk\aws_v2.8.27\Symfony\Component\EventDispatcher\Tests\DependencyInjection\RegisterListenersPassTest.php
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+S3:*
+Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.s3:DeleteBucket
+s3:DeleteObjectVersion
+s3:DeleteAccessPoint
+s3:DeleteBucketWebsite
+s3:DeleteObject
+SNS:GetEndpointAttributes
+SNS:CheckIfPhoneNumberIsOptedOut
+SNS:DeletePlatformApplication
+EC2:RunScheduledInstances
+EC2:DeleteSubnet
+EC2:DeleteSecurityGroup
+EC2:DeleteResourcePolicy
+EC2:DeleteSnapshot
+EC2:DeleteVolume
+Política: S3FullPolítica: ttt

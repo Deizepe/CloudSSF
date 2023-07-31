@@ -1,0 +1,38 @@
+CODE SMELLS
+==== ======
+
+- Privileges in code
+
+Method       | ARN   | Language        | Cloud        | Status       | Description                                       ------       | ---   | --------        | -----        | ------       | -----------                                       
+createBucket | S3    | PHP             | AWS          | OK           |                                                   
+getObject    | S3    | PHP             | AWS          | Absent       |                                                   
+putObject    | S3    | PHP             | AWS          | OK           |                                                   
+deleteObject | S3    | PHP             | AWS          | OK           |                                                   
+Subscribe    | SNS   | PHP             | AWS          | Absent       |                                                   
+Publish      | SNS   | PHP             | AWS          | Absent       |                                                   
+sendMessage  | SQS   | PHP             | AWS          | Absent       |                                                   
+
+
+
+SECURITY SMELLS
+======== ======
+-Privileges in CLoud
+
+Smell                            | ARN  | Cloud | Status          | Description 
+-----                            | ---  | ----- | ------          | ----------- 
+S3:*                             | S3   | AWS   | Over Privileges | S3 Full Access
+s3:DeleteBucket                  | S3   | AWS   | Over Privileges | S3 Delete Bucket
+s3:DeleteObjectVersion           | S3   | AWS   | Over Privileges | S3 Delete Object Version
+s3:DeleteAccessPoint             | S3   | AWS   | Over Privileges | S3 Delete Access Point
+s3:DeleteBucketWebsite           | S3   | AWS   | Over Privileges | S3 Delete Bucket Website
+s3:DeleteObject                  | S3   | AWS   | Over Privileges | S3 Delete Object
+SNS:GetEndpointAttributes        | SNS  | AWS   | Over Privileges | SNS GetEndpoint GetEndpointAttributes
+SNS:CheckIfPhoneNumberIsOptedOut | SNS  | AWS   | Over Privileges | SNS Check If Phone Opted Out
+SNS:DeletePlatformApplication    | SNS  | AWS   | Over Privileges | SNS DeletePlatform DeletePlatformApplication
+EC2:RunScheduledInstances        | EC2  | AWS   | Over Privileges | EC2 RunScheduled RunScheduledInstances
+EC2:DeleteSubnet                 | EC2  | AWS   | Over Privileges | EC2 Delete Subnet
+EC2:DeleteSecurityGroup          | EC2  | AWS   | Over Privileges | EC2 DeleteSecurity DeleteSecurityGroup
+EC2:DeleteResourcePolicy         | EC2  | AWS   | Over Privileges | EC2 DeleteResource DeleteResourcePolicy
+EC2:DeleteSnapshot               | EC2  | AWS   | Over Privileges | EC2 Delete Snapshot
+EC2:DeleteVolume                 | EC2  | AWS   | Over Privileges | EC2 Delete Volume
+

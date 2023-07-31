@@ -1,0 +1,1821 @@
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\.gitignore
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\CONTRIBUTING.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\readme.txt
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\wordpress-s3.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\wp-offload-media-autoloader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\.github\ISSUE_TEMPLATE\bug_report.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\.github\ISSUE_TEMPLATE\feature_request.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\attachment.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\attachment.css.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\attachment.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\flexboxgrid.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\flexboxgrid.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\media.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\media.css.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\media.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\modal.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\modal.css.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\modal.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\normalize.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\normalize.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\notice.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\notice.css.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\notice.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\settings.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\settings.min.css
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\style.css
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\style.css.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\css\style.min.css
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\brand\default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\brand\ome-branding-transparent.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\brand\ome-medallion.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\brand\upsell-bunny.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\arrow.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\assets-wizard.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\assets.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\bucket-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\bucket.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\check.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\close.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\css.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\dot.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\download.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\error.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\fonts.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\help.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\info.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\js.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\licence-checked.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\notification-error.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\notification-info.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\notification-locked.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\notification-success.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\notification-warning.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\offload-complete.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\offload-remaining.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\refresh-disabled.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\refresh.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\region-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\region.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\remove-from-bucket.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\remove-from-server.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\stars.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\subnav-arrow.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tab-notifier-error.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tab-notifier-warning.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-analyzerepair-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-analyzerepair-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-analyzerepair-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-analyzerepair-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-clean-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-clean-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-clean-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-clean-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-download-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-download-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-download-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-download-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-generic-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-generic-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-generic-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-generic-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-move-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-move-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-move-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-move-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-offload-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-offload-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-offload-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-offload-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-remove-active.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-remove-default.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-remove-paused.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-remove-running-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-status-error-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\tool-status-success-animated.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\x.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\aws-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\aws.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\cdn-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\cdn.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\cloudflare-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\cloudflare.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\do-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\do.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\gcp-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\gcp.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\keycdn.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\other-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\other.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\stackpath-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\delivery\stackpath.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\aws-link.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\aws-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\aws.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\do-link.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\do-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\do.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\gcp-link.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\gcp-round.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\icon\provider\storage\gcp.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\sidebar\item-checked.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\sidebar\logo-dbi.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\img\sidebar\os3-banner.svg
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\media.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\media.min.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\media.min.js.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\modal.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\modal.min.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\modal.min.js.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\notice.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\notice.min.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\notice.min.js.map
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\settings.js
+String 'createBucket' found in file.
+String 'publish' found in file.
+String 'publish' found in file.
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\settings.js.map
+String 'createBucket' found in file.
+String 'publish' found in file.
+String 'publish' found in file.
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\settings.min.js
+String 'createBucket' found in file.
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\js\settings.min.js.map
+String 'createBucket' found in file.
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\attachment.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\media.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\modal.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\notice.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\style.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_buttons.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_icons.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_input.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_navigation.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_notifications.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_progress-bar.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_providers.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_sidebar.scss
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_typography.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_ui.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\assets\sass\_variables.scss
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\amazon-s3-and-cloudfront.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-compatibility-check.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-error.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-filter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-notices.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-plugin-base.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-plugin-compatibility.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\as3cf-utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\api-manager.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\api.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\buckets.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\diagnostics.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\notifications.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\settings.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\state.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\api\v1\url-preview.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\filters\as3cf-local-to-s3.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\filters\as3cf-s3-to-local.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\integrations\advanced-custom-fields.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\integrations\core.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\integrations\integration-manager.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\integrations\integration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\integrations\media-library.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\download-handler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\item-handler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\item.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\manifest.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\media-library-item.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\provider-test-item.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\remove-local-handler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\remove-provider-handler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\items\upload-handler.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\provider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\aws-cloudfront.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\cloudflare.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\delivery-provider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\digitalocean-spaces-cdn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\gcp-cdn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\keycdn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\other.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\stackpath.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\delivery\storage.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\aws-provider.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'createBucket' found in file.
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\digitalocean-provider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\gcp-provider.php
+String 'createBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\null-provider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\storage-provider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\streams\aws-s3-stream-wrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\providers\storage\streams\gcp-gcs-stream-wrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\delivery-check.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\domain-check.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\validation-manager.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\validator-interface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\domain-check-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\http-response-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\invalid-response-code-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\invalid-response-type-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\malformed-query-string-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\malformed-response-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\s3-bucket-origin-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\signature-verification-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\ssl-connection-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\settings\exceptions\unresolveable-hostname-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\network-upgrade.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-clear-postmeta-cache.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-content-replace-urls.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-edd-replace-urls.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-file-sizes.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-filter-post-excerpt.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-filter-post.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-fix-broken-item-extra-data.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-item-extra-data.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-items-table.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-meta-wp-error.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-region-meta.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-tools-errors.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade-wpos3-to-as3cf.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\upgrade.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\exceptions\batch-limits-exceeded-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\exceptions\no-more-blogs-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\classes\upgrades\exceptions\too-many-errors-exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\include\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\interfaces\settings-interface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\languages\amazon-s3-and-cloudfront-en.pot
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\traits\settings-trait.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\traits\settings-validator-trait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\AccessKeysDefine.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\AccessKeysEntry.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\AssetsPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\AssetsUpgrade.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\BackNextButtonsRow.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\BucketSettingsSubPage.svelte
+String 'createBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Button.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\CheckAgain.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Checkbox.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\DefinedInWPConfig.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\DeliveryPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\DeliverySettingsHeadingRow.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\DeliverySettingsPanel.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\DeliverySettingsSubPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Footer.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Header.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\HelpButton.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\KeyFileDefine.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\KeyFileEntry.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Loading.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\MediaPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\MediaSettings.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Nav.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\NavItem.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Notification.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Notifications.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\OffloadStatus.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\OffloadStatusFlyout.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Page.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Pages.svelte
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Panel.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\PanelContainer.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\PanelRow.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\ProgressBar.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\RadioButton.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SecuritySubPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SettingNotifications.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Settings.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SettingsPanelOption.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SettingsValidationStatusRow.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\StoragePage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\StorageProviderSubPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\StorageSettingsHeadingRow.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\StorageSettingsPanel.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\StorageSettingsSubPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SubNav.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SubNavItem.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SubPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SubPages.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\SupportPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\TabButton.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\ToggleSwitch.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\ToolsPage.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\ToolsUpgrade.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\Upsell.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\UrlPreview.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\components\UseServerRolesDefine.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\autofocus.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\defaultPages.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\delay.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\getLocale.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\needsRefresh.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\numToString.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\objectsDiffer.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\routes.js
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\scrollIntoView.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\scrollNotificationsIntoView.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\settingsNotifications.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\js\stores.js
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\lite\Header.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\lite\pages.js
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\lite\Settings.svelte
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\ui\lite\Sidebar.svelte
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\aws-autoloader.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\CHANGELOG.md
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'DeleteObject' found in file.
+String 'DeleteObject' found in file.
+String 'CreateTopic' found in file.
+String 'CreateTopic' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'RunInstance' found in file.
+String 'SendMessage' found in file.
+String 'CreateQueue' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\NOTICE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\README.md
+String 'putObject' found in file.
+String 'putObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\AbstractConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\AwsClient.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\AwsClientInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\AwsClientTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CacheInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientResolver.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Command.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CommandInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CommandPool.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ConfigurationProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\DoctrineCacheAdapter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointParameterMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\HandlerList.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\HasDataTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\HashingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\HashInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\HasMonitoringEventsTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\History.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\IdempotencyTokenMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\InputValidationMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\JsonCompiler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\LruArrayCache.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Middleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\MockHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\MonitoringEventsInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\MultiRegionClient.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\PhpHash.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\PresignUrlMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Psr16CacheAdapter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\PsrCacheAdapter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ResponseContainerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Result.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ResultInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ResultPaginator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\RetryMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\RetryMiddlewareV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sdk.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\StreamRequestPayloadMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\TraceMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Waiter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\WrappedHttpHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\AbstractModel.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ApiProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\DateTimeResult.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\DocModel.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ListShape.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\MapShape.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Operation.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Service.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Shape.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ShapeMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\StructureShape.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\TimestampShape.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Validator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ErrorParser\AbstractErrorParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ErrorParser\JsonParserTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ErrorParser\JsonRpcErrorParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ErrorParser\RestJsonErrorParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\ErrorParser\XmlErrorParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\AbstractParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\AbstractRestParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\Crc32ValidatingParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\DecodingEventStreamIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\EventParsingIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\JsonParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\JsonRpcParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\MetadataParserTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\PayloadParserTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\QueryParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\RestJsonParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\RestXmlParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\XmlParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Parser\Exception\ParserException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\Ec2ParamBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\JsonBody.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\JsonRpcSerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\QueryParamBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\QuerySerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\RestJsonSerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\RestSerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\RestXmlSerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Api\Serializer\XmlBody.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\AccessPointArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\AccessPointArnInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\Arn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\ArnInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\ArnParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\ObjectLambdaAccessPointArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\ResourceTypeAndIdTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\Exception\InvalidArnException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\AccessPointArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\BucketArnInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\MultiRegionAccessPointArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\OutpostsAccessPointArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\OutpostsArnInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Arn\S3\OutpostsBucketArn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\AbstractMonitoringMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\ApiCallAttemptMonitoringMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\ApiCallMonitoringMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\MonitoringMiddlewareInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\ClientSideMonitoring\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CloudFront\CloudFrontClient.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CloudFront\CookieSigner.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CloudFront\Signer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CloudFront\UrlSigner.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\CloudFront\Exception\CloudFrontException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\AssumeRoleCredentialProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\AssumeRoleWithWebIdentityCredentialProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\CredentialProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\Credentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\CredentialsInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\EcsCredentialProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Credentials\InstanceProfileProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AbstractCryptoClient.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AbstractCryptoClientV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesDecryptingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesEncryptingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesGcmDecryptingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesGcmEncryptingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesStreamInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\AesStreamInterfaceV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\DecryptionTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\DecryptionTraitV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\EncryptionTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\EncryptionTraitV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\KmsMaterialsProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\KmsMaterialsProviderV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MaterialsProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MaterialsProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MaterialsProviderInterfaceV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MaterialsProviderV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MetadataEnvelope.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\MetadataStrategyInterface.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Cipher\Cbc.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Cipher\CipherBuilderTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Cipher\CipherMethod.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Polyfill\AesGcm.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Polyfill\ByteArray.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Polyfill\Gmac.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Polyfill\Key.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Crypto\Polyfill\NeedsTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\aliases.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\endpoints.json.php
+String 'subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\endpoints_prefix_history.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\grandfathered-services.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\manifest.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\partitions.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sdk-default-configuration.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2015-07-27\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2015-07-27\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2015-07-27\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2015-07-27\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2015-07-27\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-01-28\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-01-28\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-01-28\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-01-28\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-01-28\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-01\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-01\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-01\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-01\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-01\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-20\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-20\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-20\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-20\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-08-20\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-07\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-09-29\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2016-11-25\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-03-25\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2017-10-30\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-06-18\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2018-11-05\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2019-03-26\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\api-2.json.php
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\cloudfront\2020-05-31\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\api-2.json.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+String 'DeleteObject' found in file.
+String 'DeleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\endpoint-rule-set-1.json.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\endpoint-tests-1.json.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\waiters-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\s3\2006-03-01\waiters-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sts\2011-06-15\api-2.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sts\2011-06-15\endpoint-rule-set-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sts\2011-06-15\endpoint-tests-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sts\2011-06-15\paginators-1.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\data\sts\2011-06-15\smoke.json.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\DefaultsMode\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\DefaultsMode\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\DefaultsMode\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\DefaultsMode\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\EndpointProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\Partition.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\PartitionEndpointProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\PartitionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\PatternEndpointProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseDualstackEndpoint\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseDualstackEndpoint\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseDualstackEndpoint\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseDualstackEndpoint\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseFipsEndpoint\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseFipsEndpoint\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseFipsEndpoint\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Endpoint\UseFipsEndpoint\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\EndpointDiscoveryMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\EndpointList.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointDiscovery\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\EndpointDefinitionProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\EndpointProviderV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\EndpointV2SerializerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Rule\AbstractRule.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Rule\EndpointRule.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Rule\ErrorRule.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Rule\RuleCreator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Rule\TreeRule.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Ruleset\Ruleset.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Ruleset\RulesetEndpoint.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Ruleset\RulesetParameter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\EndpointV2\Ruleset\RulesetStandardLibrary.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\AwsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\CommonRuntimeException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\CouldNotCreateChecksumException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\CredentialsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\CryptoException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\CryptoPolyfillException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\EventStreamDataException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\IncalculablePayloadException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\InvalidJsonException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\InvalidRegionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\MultipartUploadException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\TokenException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\UnresolvedApiException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\UnresolvedEndpointException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Exception\UnresolvedSignatureException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Handler\GuzzleV5\GuzzleHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Handler\GuzzleV5\GuzzleStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Handler\GuzzleV5\PsrStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Handler\GuzzleV6\GuzzleHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Multipart\AbstractUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Multipart\AbstractUploadManager.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Multipart\UploadState.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\QuotaManager.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\RateLimiter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\RetryHelperTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Retry\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\AmbiguousSuccessParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\ApplyChecksumMiddleware.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\BatchDelete.php
+String 'DeleteObject' found in file.
+String 'DeleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\BucketEndpointArnMiddleware.php
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\BucketEndpointMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\CalculatesChecksumTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\EndpointRegionHelperTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\GetBucketLocationParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\MultipartCopy.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\MultipartUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\MultipartUploadingTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\ObjectCopier.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\ObjectUploader.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\PermanentRedirectMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\PostObject.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\PostObjectV4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\PutObjectUrlMiddleware.php
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\RetryableMalformedResponseParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3Client.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'createBucket' found in file.
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3ClientInterface.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3ClientTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3EndpointMiddleware.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+String 'CreateBucket' found in file.
+String 'CreateBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3MultiRegionClient.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'createBucket' found in file.
+String 'putObject' found in file.
+String 'putObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\S3UriParser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\SSECMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\StreamWrapper.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'createBucket' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'deleteObject' found in file.
+String 'DeleteObject' found in file.
+String 'deleteObject' found in file.
+String 'DeleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Transfer.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\ValidateResponseChecksumParser.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\CryptoParamsTrait.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\CryptoParamsTraitV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\HeadersMetadataStrategy.php
+String 'GetObject' found in file.
+String 'GetObject' found in file.
+String 'PutObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\InstructionFileMetadataStrategy.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\S3EncryptionClient.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\S3EncryptionClientV2.php
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'getObject' found in file.
+String 'GetObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+String 'putObject' found in file.
+String 'PutObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\S3EncryptionMultipartUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\S3EncryptionMultipartUploaderV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Crypto\UserAgentTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Exception\DeleteMultipleObjectsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Exception\PermanentRedirectException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Exception\S3Exception.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\Exception\S3MultipartUploadException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\RegionalEndpoint\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\RegionalEndpoint\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\RegionalEndpoint\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\RegionalEndpoint\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\UseArnRegion\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\UseArnRegion\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\UseArnRegion\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\S3\UseArnRegion\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\AnonymousSignature.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\S3SignatureV4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\SignatureInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\SignatureProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\SignatureTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Signature\SignatureV4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\StsClient.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\Exception\StsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\RegionalEndpoints\Configuration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\RegionalEndpoints\ConfigurationInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\RegionalEndpoints\ConfigurationProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Sts\RegionalEndpoints\Exception\ConfigurationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\BearerTokenAuthorization.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\ParsesIniTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\RefreshableTokenProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\SsoToken.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\SsoTokenProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\Token.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\TokenAuthorization.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\TokenInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Aws\Token\TokenProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Client.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\ClientInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\functions_include.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\HandlerStack.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\MessageFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Middleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Pool.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\PrepareBodyMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\RedirectMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\RequestOptions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\RetryMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\TransferStats.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\UriTemplate.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Cookie\CookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Cookie\CookieJarInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Cookie\FileCookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Cookie\SessionCookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Cookie\SetCookie.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\BadResponseException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\ClientException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\ConnectException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\GuzzleException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\RequestException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\SeekException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\ServerException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\TooManyRedirectsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Exception\TransferException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\CurlFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\CurlFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\CurlHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\CurlMultiHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\EasyHandle.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\MockHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\Proxy.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Handler\StreamHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\AggregateException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\CancellationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Coroutine.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Create.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Each.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\EachPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\FulfilledPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\functions_include.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Is.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Promise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\PromiseInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\PromisorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\RejectedPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\RejectionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\TaskQueue.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\TaskQueueInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Promise\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\AppendStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\BufferStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\CachingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\DroppingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\FnStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\functions_include.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Header.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\InflateStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\LazyOpenStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\LimitStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Message.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\MessageTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\MimeType.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\MultipartStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\NoSeekStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\PumpStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Query.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Request.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Response.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Rfc7230.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\ServerRequest.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Stream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\StreamDecoratorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\StreamWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\UploadedFile.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Uri.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\UriComparator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\UriNormalizer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\UriResolver.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\GuzzleHttp\Psr7\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\AstRuntime.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\CompilerRuntime.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\DebugRuntime.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\Env.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\FnDispatcher.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\JmesPath.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\Lexer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\Parser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\SyntaxErrorException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\TreeCompiler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\TreeInterpreter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\JmesPath\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\MessageInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\RequestInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\ResponseInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\ServerRequestInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\StreamInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\UploadedFileInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Psr\Http\Message\UriInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Idn.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Info.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\deviation.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\disallowed.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\DisallowedRanges.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\disallowed_STD3_mapped.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\disallowed_STD3_valid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\ignored.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\mapped.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\Regex.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Aws3\Symfony\Polyfill\Intl\Idn\Resources\unidata\virama.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\autoload.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\bin\google-cloud-batch
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\SECURITY.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\BigDecimal.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\BigInteger.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\BigNumber.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\BigRational.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\RoundingMode.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\DivisionByZeroException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\IntegerOverflowException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\MathException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\NegativeNumberException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\NumberFormatException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Exception\RoundingNecessaryException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Internal\Calculator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Internal\Calculator\BcMathCalculator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Internal\Calculator\GmpCalculator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\brick\math\src\Internal\Calculator\NativeCalculator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_classmap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_files.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_namespaces.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_psr4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_real.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\autoload_static.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\ClassLoader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\installed.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\installed.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\InstalledVersions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\composer\platform_check.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\BeforeValidException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\CachedKeySet.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\ExpiredException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\JWK.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\JWT.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\Key.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\firebase\php-jwt\src\SignatureInvalidException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\autoload.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\COPYING
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\README.md
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\SECURITY.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\AccessToken.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\ApplicationDefaultCredentials.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\CacheTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\CredentialsLoader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\FetchAuthTokenCache.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\FetchAuthTokenInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\GCECache.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\GetQuotaProjectInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Iam.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\IamSignerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\OAuth2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\ProjectIdProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\ServiceAccountSignerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\SignBlobInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\UpdateMetadataInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Cache\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Cache\Item.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Cache\MemoryCacheItemPool.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Cache\SysVCacheItemPool.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Cache\TypedItem.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\AppIdentityCredentials.php
+String 'Subscribe' found in file.
+String 'Subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\GCECredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\IAMCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\ImpersonatedServiceAccountCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\InsecureCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\ServiceAccountCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\ServiceAccountJwtAccessCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Credentials\UserRefreshCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\HttpHandler\Guzzle6HttpHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\HttpHandler\Guzzle7HttpHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\HttpHandler\HttpClientCache.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\HttpHandler\HttpHandlerFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Middleware\AuthTokenMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Middleware\ProxyAuthTokenMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Middleware\ScopedAccessTokenMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\auth\src\Middleware\SimpleMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\CODE_OF_CONDUCT.md
+String 'Publish' found in file.
+String 'Publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\CONTRIBUTING.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\perf-bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\SECURITY.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\snippet-bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\system-bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\unit-bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\VERSION
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\bin\google-cloud-batch
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\AnonymousCredentials.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ArrayTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Blob.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\CallTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ClientTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ConcurrencyControlTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\DebugInfoTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Duration.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\EmulatorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ExponentialBackoff.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\GeoPoint.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\GrpcRequestWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\GrpcTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\InsecureCredentialsWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Int64.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\JsonTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\PhpArray.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\RequestBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\RequestWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\RequestWrapperTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\RestTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Retry.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\RetryDeciderTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ServiceBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\SysvTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Timestamp.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\TimestampTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\TimeTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\UriTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ValidateTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\ValueMapperTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\WhitelistTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\BatchDaemon.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\BatchDaemonTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\BatchJob.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\BatchRunner.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\BatchTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\ClosureSerializerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\ConfigStorageInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\HandleFailureTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\InMemoryConfigStorage.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\InterruptTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\JobConfig.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\JobInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\JobTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\OpisClosureSerializer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\ProcessItemInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\QueueOverflowException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\Retry.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\SerializableClientTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\SimpleJob.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\SimpleJobTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\SysvConfigStorage.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Batch\SysvProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Compute\Metadata.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Compute\Metadata\Readers\HttpHandlerReader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Compute\Metadata\Readers\ReaderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Compute\Metadata\Readers\StreamReader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\AbortedException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\BadRequestException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\ConflictException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\DeadlineExceededException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\FailedPreconditionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\GoogleException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\NotFoundException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\ServerException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Exception\ServiceException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iam\Iam.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iam\IamConnectionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iam\PolicyBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iterator\ItemIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iterator\ItemIteratorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iterator\PageIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Iterator\PageIteratorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Lock\FlockLock.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Lock\LockInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Lock\LockTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Lock\SemaphoreLock.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Lock\SymfonyLockAdapter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexFormatterV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexFormatterV3.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexHandlerFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexHandlerV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\AppEngineFlexHandlerV3.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Logger\FormatterTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\LongRunning\LongRunningConnectionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\LongRunning\LongRunningOperation.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\LongRunning\LROTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\LongRunning\OperationResponseTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\CloudRunMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\EmptyMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\GAEFlexMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\GAEMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\GAEStandardMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\MetadataProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\MetadataProviderUtils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Report\SimpleMetadataProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Upload\AbstractUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Upload\MultipartUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Upload\ResumableUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Upload\SignedUrlUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-core\src\Upload\StreamableUploader.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\CODE_OF_CONDUCT.md
+String 'Publish' found in file.
+String 'Publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\CONTRIBUTING.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\SECURITY.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\VERSION
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Acl.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Bucket.php
+String 'createBucket' found in file.
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\CreatedHmacKey.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\EncryptionTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\HmacKey.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Lifecycle.php
+String 'createBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Notification.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\ObjectIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\ObjectPageIterator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\ReadStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\SigningHelper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\StorageClient.php
+String 'createBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\StorageObject.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\StreamWrapper.php
+String 'createBucket' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\WriteStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Connection\ConnectionInterface.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Connection\IamBucket.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Connection\Rest.php
+String 'getObject' found in file.
+String 'getObject' found in file.
+String 'deleteObject' found in file.
+String 'deleteObject' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Connection\RetryTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\cloud-storage\src\Connection\ServiceDefinition\storage-v1.json
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\CONTRIBUTING.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\crc32_benchmark.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\LICENSE
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\README.md
+String 'Publish' found in file.
+String 'Publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\ext\config.m4
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\ext\hash_crc32c.c
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\ext\install_crc32c.sh
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\ext\php_crc32c.c
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\ext\php_crc32c.h
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\Builtin.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\CRC32.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\CRCInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\CRCTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\Google.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\PHP.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\PHPSlicedBy4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\google\crc32\src\Table.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\CHANGELOG.md
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\UPGRADING.md
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+String 'Subscribe' found in file.
+String 'subscribe' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\BodySummarizer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\BodySummarizerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Client.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\ClientInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\ClientTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\functions_include.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\HandlerStack.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\MessageFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\MessageFormatterInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Middleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Pool.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\RedirectMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\RequestOptions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\RetryMiddleware.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\TransferStats.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Cookie\CookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Cookie\CookieJarInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Cookie\FileCookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Cookie\SessionCookieJar.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Cookie\SetCookie.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\BadResponseException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\ClientException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\ConnectException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\GuzzleException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\RequestException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\ServerException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\TooManyRedirectsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Exception\TransferException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\CurlFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\CurlFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\CurlHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\CurlMultiHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\EasyHandle.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\HeaderProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\MockHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\Proxy.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\guzzle\src\Handler\StreamHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\AggregateException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\CancellationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Coroutine.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Create.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Each.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\EachPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\FulfilledPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\functions_include.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Is.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Promise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\PromiseInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\PromisorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\RejectedPromise.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\RejectionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\TaskQueue.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\TaskQueueInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\promises\src\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\AppendStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\BufferStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\CachingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\DroppingStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\FnStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Header.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\HttpFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\InflateStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\LazyOpenStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\LimitStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Message.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\MessageTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\MimeType.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\MultipartStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\NoSeekStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\PumpStream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Query.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Request.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Response.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Rfc7230.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\ServerRequest.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Stream.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\StreamDecoratorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\StreamWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\UploadedFile.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Uri.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\UriComparator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\UriNormalizer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\UriResolver.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\guzzlehttp\psr7\src\Exception\MalformedUriException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\README.md
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\UPGRADE.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\DateTimeImmutable.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\ErrorHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Logger.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\LogRecord.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Registry.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\ResettableInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\SignalHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Utils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Attribute\AsMonologProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\ChromePHPFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\ElasticaFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\ElasticsearchFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\FlowdockFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\FluentdFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\FormatterInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\GelfMessageFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\GoogleCloudLoggingFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\HtmlFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\JsonFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\LineFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\LogglyFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\LogmaticFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\LogstashFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\MongoDBFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\NormalizerFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\ScalarFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Formatter\WildfireFormatter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\AbstractHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\AbstractProcessingHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\AbstractSyslogHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\AmqpHandler.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\BrowserConsoleHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\BufferHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ChromePHPHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\CouchDBHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\CubeHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\DeduplicationHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\DoctrineCouchDBHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\DynamoDbHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ElasticaHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ElasticsearchHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ErrorLogHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FallbackGroupHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FilterHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FingersCrossedHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FirePHPHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FleepHookHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FlowdockHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FormattableHandlerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FormattableHandlerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\GelfHandler.php
+String 'Publish' found in file.
+String 'publish' found in file.
+String 'Publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\GroupHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\Handler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\HandlerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\HandlerWrapper.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\IFTTTHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\InsightOpsHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\LogEntriesHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\LogglyHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\LogmaticHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\MailHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\MandrillHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\MissingExtensionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\MongoDBHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\NativeMailerHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\NewRelicHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\NoopHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\NullHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\OverflowHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\PHPConsoleHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ProcessableHandlerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ProcessableHandlerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ProcessHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\PsrHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\PushoverHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\RedisHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\RedisPubSubHandler.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\RollbarHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\RotatingFileHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SamplingHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SendGridHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SlackHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SlackWebhookHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SocketHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SqsHandler.php
+String 'sendMessage' found in file.
+String 'sendMessage' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\StreamHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SwiftMailerHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SymfonyMailerHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SyslogHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SyslogUdpHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\TelegramBotHandler.php
+String 'SendMessage' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\TestHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\WebRequestRecognizerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\WhatFailureGroupHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\ZendMonitorHandler.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\Curl\Util.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FingersCrossed\ActivationStrategyInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FingersCrossed\ChannelLevelActivationStrategy.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\FingersCrossed\ErrorLevelActivationStrategy.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\Slack\SlackRecord.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Handler\SyslogUdp\UdpSocket.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\GitProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\HostnameProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\IntrospectionProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\MemoryPeakUsageProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\MemoryProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\MemoryUsageProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\MercurialProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\ProcessIdProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\ProcessorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\PsrLogMessageProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\TagProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\UidProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\monolog\monolog\src\Monolog\Processor\WebProcessor.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\LICENSE.txt
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\src\CacheException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\src\CacheItemInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\src\CacheItemPoolInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\cache\src\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\src\ClientExceptionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\src\ClientInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\src\NetworkExceptionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-client\src\RequestExceptionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\RequestFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\ResponseFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\ServerRequestFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\StreamFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\UploadedFileFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-factory\src\UriFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\docs\PSR7-Interfaces.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\docs\PSR7-Usage.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\MessageInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\RequestInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\ResponseInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\ServerRequestInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\StreamInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\UploadedFileInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\http-message\src\UriInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\AbstractLogger.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\LoggerAwareInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\LoggerAwareTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\LoggerInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\LoggerTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\LogLevel.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\psr\log\Psr\Log\NullLogger.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ralouphie\getallheaders\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ralouphie\getallheaders\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ralouphie\getallheaders\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ralouphie\getallheaders\src\getallheaders.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\conventional-commits.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\SECURITY.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\AbstractArray.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\AbstractCollection.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\AbstractSet.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\ArrayInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Collection.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\CollectionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\DoubleEndedQueue.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\DoubleEndedQueueInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\GenericArray.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Queue.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\QueueInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Set.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\CollectionMismatchException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\InvalidSortOrderException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\NoSuchElementException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\OutOfBoundsException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\UnsupportedOperationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Exception\ValueExtractionException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\AbstractMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\AbstractTypedMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\AssociativeArrayMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\MapInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\NamedParameterMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\TypedMap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Map\TypedMapInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Tool\TypeTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Tool\ValueExtractorTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\collection\src\Tool\ValueToStringTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\BinaryUtils.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\DegradedUuid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\DeprecatedUuidInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\DeprecatedUuidMethodsTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\FeatureSet.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\functions.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Uuid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\UuidFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\UuidFactoryInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\UuidInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Builder\BuilderCollection.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Builder\DefaultUuidBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Builder\DegradedUuidBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Builder\FallbackBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Builder\UuidBuilderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\CodecInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\GuidStringCodec.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\OrderedTimeCodec.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\StringCodec.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\TimestampFirstCombCodec.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Codec\TimestampLastCombCodec.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\NumberConverterInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\TimeConverterInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Number\BigNumberConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Number\DegradedNumberConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Number\GenericNumberConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Time\BigNumberTimeConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Time\DegradedTimeConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Time\GenericTimeConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Converter\Time\PhpTimeConverter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\BuilderNotFoundException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\DateTimeException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\DceSecurityException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\InvalidArgumentException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\InvalidBytesException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\InvalidUuidStringException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\NameException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\NodeException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\RandomSourceException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\TimeSourceException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\UnableToBuildUuidException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\UnsupportedOperationException.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Exception\UuidExceptionInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Fields\FieldsInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Fields\SerializableFieldsTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\CombGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\DceSecurityGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\DceSecurityGeneratorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\DefaultNameGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\DefaultTimeGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\NameGeneratorFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\NameGeneratorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\PeclUuidNameGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\PeclUuidRandomGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\PeclUuidTimeGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\RandomBytesGenerator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\RandomGeneratorFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\RandomGeneratorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\RandomLibAdapter.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\TimeGeneratorFactory.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Generator\TimeGeneratorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Guid\Fields.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Guid\Guid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Guid\GuidBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Lazy\LazyUuidFromString.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Math\BrickMathCalculator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Math\CalculatorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Math\RoundingMode.php
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Nonstandard\Fields.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Nonstandard\Uuid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Nonstandard\UuidBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Nonstandard\UuidV6.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\DceSecurityProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\NodeProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\TimeProviderInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Dce\SystemDceSecurityProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Node\FallbackNodeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Node\NodeProviderCollection.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Node\RandomNodeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Node\StaticNodeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Node\SystemNodeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Time\FixedTimeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Provider\Time\SystemTimeProvider.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\Fields.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\FieldsInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\NilTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\NilUuid.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidBuilder.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidV1.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidV2.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidV3.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidV4.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\UuidV5.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\Validator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\VariantTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Rfc4122\VersionTrait.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\Decimal.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\Hexadecimal.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\Integer.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\NumberInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\Time.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Type\TypeInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Validator\GenericValidator.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\ramsey\uuid\src\Validator\ValidatorInterface.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Parser.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\UriTemplate.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Node\Abstraction.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Node\Expression.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Node\Literal.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Node\Variable.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Operator\Abstraction.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Operator\Named.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\rize\uri-template\src\Rize\UriTemplate\Operator\UnNamed.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\deprecation-contracts\CHANGELOG.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\deprecation-contracts\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\deprecation-contracts\function.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\deprecation-contracts\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\deprecation-contracts\README.md
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-ctype\bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-ctype\bootstrap80.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-ctype\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-ctype\Ctype.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-ctype\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Php80.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\PhpToken.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Resources\stubs\Attribute.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Resources\stubs\PhpToken.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Resources\stubs\Stringable.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Resources\stubs\UnhandledMatchError.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php80\Resources\stubs\ValueError.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php81\bootstrap.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php81\composer.json
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php81\LICENSE
+String 'publish' found in file.
+String 'publish' found in file.
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php81\Php81.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\vendor\Gcp\symfony\polyfill-php81\Resources\stubs\ReturnTypeWillChange.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\view\attachment-metabox.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\view\notice.php
+File: C:\Users\ander\Downloads\wp-amazon-s3-and-cloudfront-master\view\settings.php
+S3:*
+Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.Action 'Mestrado.Privilegio' is allowed for the user in policy.s3:DeleteBucket
+s3:DeleteObjectVersion
+s3:DeleteAccessPoint
+s3:DeleteBucketWebsite
+s3:DeleteObject
+SNS:GetEndpointAttributes
+SNS:CheckIfPhoneNumberIsOptedOut
+SNS:DeletePlatformApplication
+EC2:RunScheduledInstances
+EC2:DeleteSubnet
+EC2:DeleteSecurityGroup
+EC2:DeleteResourcePolicy
+EC2:DeleteSnapshot
+EC2:DeleteVolume
+Política: S3FullPolítica: ttt

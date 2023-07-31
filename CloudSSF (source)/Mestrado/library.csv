@@ -1,0 +1,50 @@
+Language;ARN;Cloud;Method;Desc
+;;;;
+PHP;SES;AWS;sendEmail;Send Email
+C#;SES;AWS;SendEmail;Send Email
+JS;SES;AWS;senderEmail;Send Email
+JAVA;SES;AWS;SendEmailRequest;Send Email
+PHP;S3;AWS;getObject;
+C#;S3;AWS;GetObject;
+JS;S3;AWS;getObject;
+JAVA;S3;AWS;GetObject;
+PHP;S3;AWS;createBucket;
+C#;S3;AWS;CreateBucket;
+JS;S3;AWS;createBuckets;
+JAVA;S3;AWS;CreateBucket;
+PHP;S3;AWS;putObject;
+C#;S3;AWS;PutObject;
+JS;S3;AWS;putObject;
+JAVA;S3;AWS;PutObject;
+PHP;S3;AWS;deleteObject;
+C#;S3;AWS;DeleteObject;
+JS;S3;AWS;deleteObject;
+JAVA;S3;AWS;DeleteObject;
+PHP;SNS;AWS;createTopic;
+C#;SNS;AWS;CreateTopic;
+JS;SNS;AWS;createTopic;
+JAVA;SNS;AWS;CreateTopic;
+PHP;SNS;AWS;Publish;
+C#;SNS;AWS;publish;
+JS;SNS;AWS;Publish;
+JAVA;SNS;AWS;publish;
+PHP;SNS;AWS;Subscribe;
+C#;SNS;AWS;subscribe;
+JS;SNS;AWS;Subscribe;
+JAVA;SNS;AWS;subscribe;
+PHP;EC2;AWS;runInstance;
+C#;EC2;AWS;RunInstance;
+JS;EC2;AWS;runInstance;
+JAVA;EC2;AWS;RunInstanceRequest;
+PHP;SQS;AWS;sendMessage;
+C#;SQS;AWS;SendMessage;
+JS;SQS;AWS;sendMessage;
+JAVA;SQS;AWS;SendMessageRequest;
+PHP;SQS;AWS;createQueue;
+C#;SQS;AWS;CreateQueue;
+JS;SQS;AWS;createQueue;
+JAVA;SQS;AWS;CreateQueueRequest;
+PHP;SQS;AWS;deleteMessage;
+C#;SQS;AWS;DeleteMessage;
+JS;SQS;AWS;deleteMessage;
+JAVA;SQS;AWS;DeleteMessage;

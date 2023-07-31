@@ -1,0 +1,248 @@
+[
+  {
+    "Smells": "S3:*",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Full Access"
+  },
+  {
+    "Smells": "EC2:*",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Full Access"
+  },
+  {
+    "Smells": "SNS:*",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "SNS Full Access"
+  },
+  {
+    "Smells": "SQS:*",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Desc": "SQS Full Access"
+  },
+  {
+    "Smells": "SES:*",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES Full Access"
+  },
+  {
+    "Smells": "list",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "List S3"
+  },
+  {
+    "Smells": "list",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "List EC2"
+  },
+  {
+    "Smells": "list",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "List SNS"
+  },
+  {
+    "Smells": "list",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Desc": "List SQS"
+  },
+  {
+    "Smells": "list",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "List SES"
+  },
+  {
+    "Smells": "Resource: \"*",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "Unlimited Resources, any projects"
+  },
+  {
+    "Smells": "Resource: \"*",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "Unlimited Resources, any projects"
+  },
+  {
+    "Smells": "Resource: \"*",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "Unlimited Resources, any projects"
+  },
+  {
+    "Smells": "Resource: \"*",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Desc": "Unlimited Resources, any projects"
+  },
+  {
+    "Smells": "Resource: \"*",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "Unlimited Resources, any projects"
+  },
+  {
+    "Smells": "s3:DeleteBucket",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Delete Bucket"
+  },
+  {
+    "Smells": "s3:DeleteObjectVersion",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Delete Object Version"
+  },
+  {
+    "Smells": "s3:DeleteAccessPoint",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Delete Access Point"
+  },
+  {
+    "Smells": "s3:DeleteBucketWebsite",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Delete Bucket Website"
+  },
+  {
+    "Smells": "s3:DeleteObject",
+    "ARN": "S3",
+    "Cloud": "AWS",
+    "Desc": "S3 Delete Object"
+  },
+  {
+    "Smells": "SES:GetSendQuota",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES GetSend GetSendQuota"
+  },
+  {
+    "Smells": "SES:GetIdentityPolicies",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES GetIdentity GetIdentityPolicies"
+  },
+  {
+    "Smells": "SES:DeleteConfigurationSet",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES DeleteConfiguration DeleteConfigurationSet"
+  },
+  {
+    "Smells": "SES:SendBounce",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES Send Bounce"
+  },
+  {
+    "Smells": "SES:DeleteTemplate",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES Delete Template"
+  },
+  {
+    "Smells": "SES:PutIdentityPolicy",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES PutIdentity PutIdentityPolicy"
+  },
+  {
+    "Smells": "SES:DeleteIdentityPolicy",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES DeleteIdentity DeleteIdentityPolicy"
+  },
+  {
+    "Smells": "SES:VerifyDomainIdentity",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES VerifyDomain VerifyDomainIdentity"
+  },
+  {
+    "Smells": "SES:GetIdentityMailFromDomainAttributes",
+    "ARN": "SES",
+    "Cloud": "AWS",
+    "Desc": "SES:GetIdentity GetIdentityMail IdentityMailFrom MailFromDomain FromDomainAttributes"
+  },
+  {
+    "Smells": "SNS:GetEndpointAttributes",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "SNS GetEndpoint GetEndpointAttributes"
+  },
+  {
+    "Smells": "SNS:CheckIfPhoneNumberIsOptedOut",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "SNS Check If Phone Opted Out"
+  },
+  {
+    "Smells": "SNS:DeletePlatformApplication",
+    "ARN": "SNS",
+    "Cloud": "AWS",
+    "Desc": "SNS DeletePlatform DeletePlatformApplication"
+  },
+  {
+    "Smells": "SQS:DeleteQueue",
+    "ARN": "SQS",
+    "Cloud": "AWS",
+    "Desc": "SQS Delete Queue"
+  },
+  {
+    "Smells": "EC2:RunScheduledInstances",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 RunScheduled RunScheduledInstances"
+  },
+  {
+    "Smells": "EC2:RunInstances",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Run Instances"
+  },
+  {
+    "Smells": "EC2:DeleteSubnet",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Delete Subnet"
+  },
+  {
+    "Smells": "EC2:DeleteSecurityGroup",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 DeleteSecurity DeleteSecurityGroup"
+  },
+  {
+    "Smells": "EC2:DeleteResourcePolicy",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 DeleteResource DeleteResourcePolicy"
+  },
+  {
+    "Smells": "EC2:DeleteSnapshot",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Delete Snapshot"
+  },
+  {
+    "Smells": "EC2:DeleteVolume",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Delete Volume"
+  },
+  {
+    "Smells": "EC2:DeleteVpc",
+    "ARN": "EC2",
+    "Cloud": "AWS",
+    "Desc": "EC2 Delete Vpc"
+  }
+]

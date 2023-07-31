@@ -1,0 +1,42 @@
+﻿Smells;ARN;Cloud;Desc
+S3:*;S3;AWS;S3 Full Access
+EC2:*;EC2;AWS;EC2 Full Access
+SNS:*;SNS;AWS;SNS Full Access
+SQS:*;SQS;AWS;SQS Full Access
+SES:*;SES;AWS;SES Full Access
+list;S3;AWS;List S3
+list;EC2;AWS;List EC2
+list;SNS;AWS;List SNS
+list;SQS;AWS;List SQS
+list;SES;AWS;List SES
+"Resource: ""*""";S3;AWS;Unlimited Resources, any projects
+"Resource: ""*""";EC2;AWS;Unlimited Resources, any projects
+"Resource: ""*""";SNS;AWS;Unlimited Resources, any projects
+"Resource: ""*""";SQS;AWS;Unlimited Resources, any projects
+"Resource: ""*""";SES;AWS;Unlimited Resources, any projects
+s3:DeleteBucket;S3;AWS;S3 Delete Bucket
+s3:DeleteObjectVersion;S3;AWS;S3 Delete Object Version
+s3:DeleteAccessPoint;S3;AWS;S3 Delete Access Point
+s3:DeleteBucketWebsite;S3;AWS;S3 Delete Bucket Website
+s3:DeleteObject;S3;AWS;S3 Delete Object
+SES:GetSendQuota;SES;AWS;SES GetSend GetSendQuota
+SES:GetIdentityPolicies;SES;AWS;SES GetIdentity GetIdentityPolicies
+SES:DeleteConfigurationSet;SES;AWS;SES DeleteConfiguration DeleteConfigurationSet
+SES:SendBounce;SES;AWS;SES Send Bounce
+SES:DeleteTemplate;SES;AWS;SES Delete Template
+SES:PutIdentityPolicy;SES;AWS;SES PutIdentity PutIdentityPolicy
+SES:DeleteIdentityPolicy;SES;AWS;SES DeleteIdentity DeleteIdentityPolicy
+SES:VerifyDomainIdentity;SES;AWS;SES VerifyDomain VerifyDomainIdentity
+SES:GetIdentityMailFromDomainAttributes;SES;AWS;SES:GetIdentity GetIdentityMail IdentityMailFrom MailFromDomain FromDomainAttributes
+SNS:GetEndpointAttributes;SNS;AWS;SNS GetEndpoint GetEndpointAttributes
+SNS:CheckIfPhoneNumberIsOptedOut;SNS;AWS;SNS Check If Phone Opted Out
+SNS:DeletePlatformApplication;SNS;AWS;SNS DeletePlatform DeletePlatformApplication
+SQS:DeleteQueue;SQS;AWS;SQS Delete Queue
+EC2:RunScheduledInstances;EC2;AWS;EC2 RunScheduled RunScheduledInstances
+EC2:RunInstances;EC2;AWS;EC2 Run Instances
+EC2:DeleteSubnet;EC2;AWS;EC2 Delete Subnet
+EC2:DeleteSecurityGroup;EC2;AWS;EC2 DeleteSecurity DeleteSecurityGroup
+EC2:DeleteResourcePolicy;EC2;AWS;EC2 DeleteResource DeleteResourcePolicy
+EC2:DeleteSnapshot;EC2;AWS;EC2 Delete Snapshot
+EC2:DeleteVolume;EC2;AWS;EC2 Delete Volume
+EC2:DeleteVpc;EC2;AWS;EC2 Delete Vpc
